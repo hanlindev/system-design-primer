@@ -377,7 +377,7 @@ First, you'll need a basic understanding of common principles, learning about wh
 
 ### Step 1: Review the scalability video lecture
 
-[Scalability Lecture at Harvard](https://www.youtube.com/watch?v=-W9F__D3oY4) <--bookmark
+[Scalability Lecture at Harvard](https://www.youtube.com/watch?v=-W9F__D3oY4)
 
 * Topics covered:
     * Vertical scaling
@@ -463,7 +463,7 @@ Responses return the most readily available version of the data available on any
 
 AP is a good choice if the business needs allow for [eventual consistency](#eventual-consistency) or when the system needs to continue working despite external errors.
 
-### Source(s) and further reading
+### Source(s) and further reading <-- bookmark
 
 * [CAP theorem revisited](http://robertgreiner.com/2014/08/cap-theorem-revisited/)
 * [A plain english introduction to CAP theorem](http://ksat.me/a-plain-english-introduction-to-cap-theorem)
